@@ -1,0 +1,4 @@
+- source: FreemanLewis_Resume_20240722.qmd
+  quarto-pub:
+    - id: 49b74110-cb5c-4236-b5ba-5ec82b64fab1
+      url: 'https://freemanlewis.quarto.pub/freemanlewis-cv'
